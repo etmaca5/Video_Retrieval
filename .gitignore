@@ -3,3 +3,6 @@
 *.mdc
 *.csv
 *.json
+activitynetdata/*
+!activitynetdata/README.md
+model/*
